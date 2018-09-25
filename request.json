@@ -1,0 +1,32 @@
+{
+  "bookings": {
+    "Post": {
+      "flightId": 1,
+      "flightCapacity": 5,
+      "tripDate": "2018-05-31",
+      "passengers": [
+        {
+          "id": 0,
+          "indentityNo": "ID003",
+          "firstName": "Alex",
+          "lastName": "Smith"
+        }
+      ]
+    }
+  },
+  "FlightCentre": {
+    "Search": {
+      "passengerName": "JR Smith",
+      "tripDate": "2018-05-30",
+      "arrivalCity": "Sydney",
+      "departureCity": "Melbourne",
+      "flightNo": ""
+    },
+    "avaliability": {
+      "startDate": "2018-05-30",
+      "endDate": "2018-06-01",
+      "passengerNo": 5
+    }
+  }
+}
+
